@@ -1,0 +1,4 @@
+class Receipt
+{
+Lista<Item> item=new ArrayList<Item>();
+}

@@ -1,11 +1,11 @@
-enum Tax
+public enum Tax
 {
 	A=18;
 	B=5;
 	C=0;
 
 }
-class Item {
+ class Item {
 	int id;
 	String name;
 	double price;
